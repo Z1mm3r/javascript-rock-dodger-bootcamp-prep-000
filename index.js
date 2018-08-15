@@ -75,10 +75,7 @@ function createRock(x) {
      * we should call endGame()
      */
 
-    /**
-     * Otherwise, if the rock hasn't reached the bottom of
-     * the GAME, we want to move it again.
-     */
+    rock.style.top = top -2;
 
     /**
      * But if the rock *has* reached the bottom of the GAME,
