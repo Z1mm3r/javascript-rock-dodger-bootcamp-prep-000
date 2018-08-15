@@ -76,9 +76,9 @@ function createRock(x) {
      */
     if(rock.style.top > GAME_HEIGHT)
     {
-      
+      rock.style.top = top +2;
     }
-    rock.style.top = top -2;
+    
 
     /**
      * But if the rock *has* reached the bottom of the GAME,
