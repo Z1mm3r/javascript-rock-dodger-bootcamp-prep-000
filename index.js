@@ -78,7 +78,7 @@ function createRock(x) {
     {
       rock.style.top = top +2;
       
-      
+      window.requestAnimationFrame(moveRock)
     }
     
 
