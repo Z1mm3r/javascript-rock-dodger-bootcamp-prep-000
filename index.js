@@ -120,14 +120,6 @@ function moveDodger(e) {
 function moveDodgerLeft() {
   
   
-  function step() {
-   $(DODGER).style.top = `${top += 2}px`;
- 
-    if (top < 200) {
-      window.requestAnimationFrame(step)
-    }
-  }
-  
   // implement me!
   /**
    * This function should move DODGER to the left
