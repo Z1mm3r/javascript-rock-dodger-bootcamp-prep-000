@@ -115,7 +115,10 @@ function moveDodger(e) {
    * And be sure to use the functions declared below!
    */
    
-   if(e.)
+   if(e.keyCode == LEFT_ARROW)
+   {
+     
+   }
    
    
 }
