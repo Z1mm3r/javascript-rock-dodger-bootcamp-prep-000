@@ -128,8 +128,6 @@ function moveDodger(e) {
 }
 
 function moveDodgerLeft() {
-  
-  console.log("Hello2");
   // implement me!
   /**
    * This function should move DODGER to the left
@@ -138,7 +136,6 @@ function moveDodgerLeft() {
 }
 
 function moveDodgerRight() {
-  console.log("Hello3");
   // implement me!
   /**
    * This function should move DODGER to the right
