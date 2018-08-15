@@ -117,7 +117,7 @@ function moveDodger(e) {
    
    if(e.keyCode == LEFT_ARROW)
    {
-     
+     moveDodgerLeft
    }
    
    
