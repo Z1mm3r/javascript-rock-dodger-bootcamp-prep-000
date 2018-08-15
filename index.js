@@ -138,6 +138,9 @@ function moveDodgerLeft() {
 function moveDodgerRight() {
   
   let temp = positionToInteger(DODGER);
+  
+  
+  
   // implement me!
   /**
    * This function should move DODGER to the right
